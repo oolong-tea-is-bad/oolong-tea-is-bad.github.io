@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22f6c888.css",
+    "main.js": "/static/js/main.54342830.js",
+    "static/js/453.d0005b56.chunk.js": "/static/js/453.d0005b56.chunk.js",
+    "static/media/EliceDigitalBaeum_Bold.ttf": "/static/media/EliceDigitalBaeum_Bold.7ec1f224d7f5d11c82da.ttf",
+    "index.html": "/index.html",
+    "main.22f6c888.css.map": "/static/css/main.22f6c888.css.map",
+    "main.54342830.js.map": "/static/js/main.54342830.js.map",
+    "453.d0005b56.chunk.js.map": "/static/js/453.d0005b56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f6c888.css",
+    "static/js/main.54342830.js"
+  ]
+}
